@@ -26,3 +26,6 @@
 ![Student_Detail](https://user-images.githubusercontent.com/104116597/202120339-a71c277b-e085-415d-8ee3-5d0fe18113a1.png)
 
 
+![MYSQL _OUTPUT (1)](https://user-images.githubusercontent.com/104116597/202121141-c3284d10-8b15-4c9c-b6c7-0392ebf447ba.png)
+
+![MYSQL _OUTPUT (2)](https://user-images.githubusercontent.com/104116597/202121154-3d50c27c-2ebc-4e55-a93b-d63c87b8afbf.png)
